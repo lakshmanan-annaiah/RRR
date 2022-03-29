@@ -75,7 +75,7 @@
                         </goals>
                      
                         <configuration>
-                           <hostname>localhost</hostname>
+                           <hostname>127.0.0.1</hostname>
         <username>laksh</username>
         <password>laksh</password>
         <port>9999</port>
