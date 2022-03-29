@@ -74,7 +74,12 @@
                             <goal>deploy</goal>
                         </goals>
                      
-                       
+                        <configuration>
+                           <hostname>localhost</hostname>
+        <username>laksh</username>
+        <password>laksh</password>
+        <port>9999</port>
+                        </configuration> 
                     </execution>
                 </executions>
             </plugin>
