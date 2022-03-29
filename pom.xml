@@ -79,6 +79,7 @@
         <username>laksh</username>
         <password>laksh</password>
         <port>9999</port>
+                          <timeout>1000000</timeout>
                         </configuration> 
                     </execution>
                 </executions>
